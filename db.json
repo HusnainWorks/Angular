@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "aksjdk",
+      "fathername": "John",
+      "age": "12",
+      "email": "aaa@aaa.com",
+      "username": "nainy",
+      "password": "$2a$10$8q6fBd6JTYUqgfJTob//BOO.tmZHpa3QtSnoXogQ4gYcd8yshiE5i",
+      "id": 6
+    },
+    {
+      "email": "cccc@abc.com",
+      "password": "$2a$10$2t1CwIt7/KNnOtMl8yN/9.A7V52djLXBUcrnSUb.KxrE3KsO2zJvS",
+      "username": "asdd",
+      "name": "Ayesha",
+      "fathername": "Ahmed",
+      "age": "21",
+      "id": 9
+    },
+    {
+      "email": "aliahmed@abc.com",
+      "password": "$2a$10$4Vw6.Z8OxYRSRGJIxc.iV.A1fychGSVzMXTtotwfmX.3FVfbw2aIu",
+      "name": "Amir",
+      "fathername": "Ahmed",
+      "age": "21",
+      "username": "aliahmed",
+      "id": 10
+    },
+    {
+      "name": "Ali",
+      "fathername": "Khan",
+      "age": "23",
+      "email": "john@abc.com",
+      "username": "jhon123",
+      "password": "$2a$10$bJ6l7XLEhtfrPOmJlNRQ7.KzfyTIfuNzOCQgd7Be.g8G/ngMcQIAC",
+      "id": 11
+    }
+  ]
+}
